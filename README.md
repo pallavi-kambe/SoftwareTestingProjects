@@ -1,5 +1,5 @@
 # SoftwareTestingProjects
-All the software testing documents
+All the software testing projects and documents
 
 Task2- VWO testcases
 [Copy of TestCase - HOmeWork.xlsx](https://github.com/user-attachments/files/16115252/Copy.of.TestCase.-.HOmeWork.xlsx)
